@@ -1,12 +1,4 @@
 /// <binding Clean='clean' ProjectOpened='copy-deps' />
-
-
-var gulp = require("gulp"),
-    rimraf = require("rimraf"),
-    concat = require("gulp-concat"),
-    cssmin = require("gulp-cssmin"),
-    uglify = require("gulp-uglify");
-
 var paths = {
     webroot: "./wwwroot/"
 };
