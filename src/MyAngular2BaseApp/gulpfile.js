@@ -1,5 +1,5 @@
 /// <binding Clean='clean' ProjectOpened='copy-deps' />
-"use strict";
+
 
 var gulp = require("gulp"),
     rimraf = require("rimraf"),
